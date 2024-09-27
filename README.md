@@ -38,7 +38,7 @@ The following is the core structure of the project:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/megatron17/lightning-template-hydra.git
+   git clone https://github.com/KillerStrike17/lightning-template-hydra.git
    cd lightning-template-hydra
    ```
 
